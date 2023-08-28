@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKSHAYINDIA05
-- 👀 I’m interested in ...DATA SCIENCE and CYBER SECURITY
-- 🌱 I’m currently learning ...PYTHON and AZURE
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...DATA SCIENCE and DEVELOPMENT
+- 🌱 I’m currently learning ...Machine Learning
+- 💞️ I’m looking to collaborate on ...Data Science and Web/App Development Projects
 - 📫 How to reach me ...akshaym0507@outlook.com
 
 <!---
