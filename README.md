@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKSHAY M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" />
+<img align="right" width="400" src="[https://giphy.com/embed/L1R1tvI9svkIWwpVYr](https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47l900z4x8mql5ui7csfr9nqd7dbro9kdmes8i0ipq&ep=v1_gifs_search&rid=giphy.gif&ct=g)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayindia05&label=Profile%20views&color=0e75b6&style=flat" alt="akshayindia05" /> </p>
 
