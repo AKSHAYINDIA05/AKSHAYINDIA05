@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AKSHAY M</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Developer and Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayindia05&label=Profile%20views&color=0e75b6&style=flat" alt="akshayindia05" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akshayindia05.github.io/akshaym.github.io/](https://akshayindia05.github.io/akshaym.github.io/)
 
-- 💬 Ask me about **Flutter, React, Nextjs**
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, GenAI, Flutter, React, Nextjs**
 
 - 📫 How to reach me **contact@akshay05.com**
 
