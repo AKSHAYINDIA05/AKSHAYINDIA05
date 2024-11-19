@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayindia05" alt="akshayindia05" /></a> </p>
 
-- 🔭 I’m currently working on [Food Delivery App](https://github.com/AKSHAYINDIA05/Document_Comparison_System.git)
+- 🔭 I’m currently working on [RAG](https://github.com/AKSHAYINDIA05/Document_Comparison_System.git)
 
 - 🌱 I’m currently learning **Gen AI**
 
