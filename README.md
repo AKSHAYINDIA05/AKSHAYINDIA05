@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 👨‍💻 All of my projects are available at [https://akshayindia05.github.io/akshaym.github.io/](https://www.akshay05.com)
+- 👨‍💻 [ All of my projects are available here.](https://www.akshay05.com)
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, GenAI, Flutter, React, Nextjs**
 
